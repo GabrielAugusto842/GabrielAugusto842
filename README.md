@@ -1,4 +1,15 @@
-## Hi there 👋
+## Bem-vindo! 👋
+
+<p>
+  💻 Desenvolvedor de software epecializado em Backend Web utilizando Python.
+</p>
+
+## 🚀 **Tecnologias e Ferramentas**
+Linguagens:
+
+Frameworks:
+
+Demais conhecimentos:
 
 <!--
 **GabrielAugusto842/GabrielAugusto842** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
